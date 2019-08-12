@@ -1,5 +1,5 @@
 
-## Kubernetes Nginx Ingress学习总结
+## Kubernetes Nginx Ingress学习笔记
 
 ### 简介
 Ingress是利用Nginx、Haproxy等负载均衡器暴露集群内服务的工具。
