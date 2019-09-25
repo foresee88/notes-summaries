@@ -1,4 +1,4 @@
-## kubernetes 在云主机上的部署
+## 用kubeadm在云主机上完成kubernetes集群的部署
 
 ### 资源准备
 在网易云"https://c.163yun.com/dashboard#/m/nvm/"申请2台云主机，建议用CentOs镜像，下面演示也以CentOs为例。注意master节点需要2CPU或以上规格，否则master安装会报错。
